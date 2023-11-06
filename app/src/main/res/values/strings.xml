@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LinearLayout_01</string>
+    <string name="titulo">LinearLayout_01</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="nombre">Nombre</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="Estrellita">Estrellita</string>
+    <string name="circulo_verde">Circulo_verde</string>
+</resources>
