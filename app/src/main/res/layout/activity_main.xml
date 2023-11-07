@@ -24,7 +24,6 @@
         android:layout_height="wrap_content"
         android:layout_weight="3"
         android:contentDescription="@string/circulo_verde"
-        android:src="@tools:sample/avatars"
         app:srcCompat="@drawable/verde" />
 
     <TextView
